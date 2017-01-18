@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="shared">cHJpdmF0ZSBzdGF0aWMgU3RyaW5nW10gdG9rZW5pemUoU3RyaW5nIHN0cmluZywgU3RyaW5nIGRl
+bGltaXRvcikKewogIFZlY3RvciB2ZWN0b3IgPSBuZXcgVmVjdG9yKCk7CiAgaW50IGluZGV4ID0g
+MDsKICBpbnQgcHJldkluZGV4ID0gMDsKCiAgd2hpbGUgKChpbmRleCA9IHN0cmluZy5pbmRleE9m
+KGRlbGltaXRvciwgcHJldkluZGV4KSkgPj0gMCkKICB7CiAgICB2ZWN0b3IuYWRkRWxlbWVudChz
+dHJpbmcuc3Vic3RyaW5nKHByZXZJbmRleCwgaW5kZXgpKTsKICAgIHByZXZJbmRleCA9IGluZGV4
+ICsgMTsKICB9CiAgdmVjdG9yLmFkZEVsZW1lbnQoc3RyaW5nLnN1YnN0cmluZyhwcmV2SW5kZXgp
+KTsKICBTdHJpbmdbXSBhcnJheSA9IG5ldyBTdHJpbmdbdmVjdG9yLnNpemUoKV07CiAgZm9yIChp
+bnQgaSA9IDA7IGkgPCBhcnJheS5sZW5ndGg7IGkrKykKICB7CiAgICBhcnJheVtpXSA9IChTdHJp
+bmcpIHZlY3Rvci5lbGVtZW50QXQoaSk7CiAgfQoKICByZXR1cm4gYXJyYXk7Cn0K</value>
+  <value name="encodeutf8">true</value>
+  <array name="imports" type="value" depth="1">
+    <value>java.util.*</value>
+    <value>java.text.NumberFormat</value>
+    <value>com.wm.ps.util.string.BadFieldException</value>
+    <value>com.wm.ps.util.string.Field</value>
+  </array>
+</Values>

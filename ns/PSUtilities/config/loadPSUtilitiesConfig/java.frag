@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">loadPSUtilitiesConfig</value>
+  <value name="subtype">unknown</value>
+  <value name="sigtype">java 3.5</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">dHJ5CnsKICAvLyBTdHJpbmcgc3RyRmlsZVNlcGFyYXRvciA9CiAgLy8gKFN5c3RlbS5nZXRQcm9w
+ZXJ0aWVzKCkpLmdldFByb3BlcnR5KCJmaWxlLnNlcGFyYXRvciIpOwogIC8vIFN0cmluZyBzdHJD
+dXJyZW50RGlyID0KICAvLyAoU3lzdGVtLmdldFByb3BlcnRpZXMoKSkuZ2V0UHJvcGVydHkoInVz
+ZXIuZGlyIik7CiAgU3RyaW5nIHN0ckZpbGVuYW1lID0gInBhY2thZ2VzL1BTVXRpbGl0aWVzL2Nv
+bmZpZy9QU1V0aWxpdGllcy5jbmYiOwoKICBGaWxlIGZpbGUgPSBuZXcgRmlsZShzdHJGaWxlbmFt
+ZSk7CiAgaWYgKGZpbGUuY2FuUmVhZCgpKQogIHsKICAgIElucHV0U3RyZWFtIHN0cmVhbSA9IG5l
+dyBqYXZhLmlvLkJ1ZmZlcmVkSW5wdXRTdHJlYW0obmV3IGphdmEuaW8uRmlsZUlucHV0U3RyZWFt
+KGZpbGUpKTsKCiAgICB0cnkKICAgIHsKICAgICAgcHJvcGVydGllcy5sb2FkKHN0cmVhbSk7CiAg
+ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiU3VjY2Vzc2Z1bGx5IGxvYWRlZCBQU1V0aWxpdGllcyBj
+b25maWd1cmF0aW9uIGZpbGUgaW50byBtZW1vcnkiKTsKICAgIH0KICAgIGZpbmFsbHkKICAgIHsK
+ICAgICAgc3RyZWFtLmNsb3NlKCk7CiAgICB9CgogIH0KICBlbHNlCiAgewogICAgdGhyb3cgbmV3
+IFNlcnZpY2VFeGNlcHRpb24oIkNvdWxkIG5vdCByZWFkIHByb3BlcnRpZXMgZmlsZTogIiArIHN0
+ckZpbGVuYW1lKTsKICB9Cn0KY2F0Y2ggKEV4Y2VwdGlvbiBlKQp7CiAgdGhyb3cgbmV3IFNlcnZp
+Y2VFeGNlcHRpb24oIkVycm9yIHJlYWRpbmcgcHJvcGVydGllcyBmaWxlOiAiICsgZSk7Cn0KCg==
+</value>
+</Values>

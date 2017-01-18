@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">formatString</value>
+  <array name="sig" type="value" depth="1">
+    <value>[i] field:0:required inString</value>
+    <value>[i] field:0:optional minLength</value>
+    <value>[i] field:0:optional maxLength</value>
+    <value>[i] field:0:optional padCharacter</value>
+    <value>[i] field:0:optional justification {"Right","Left"}</value>
+    <value>[i] field:0:optional quoted {"true","false"}</value>
+    <value>[i] field:0:optional quoteCharacter {""","'"}</value>
+    <value>[i] field:0:optional default</value>
+    <value>[o] field:0:required formattedString</value>
+  </array>
+  <value name="sigtype">java 3.5</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFDdXJzb3IgY3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7CgpTdHJpbmdCdWZmZXIg
+YnVmZmVyID0gbmV3IFN0cmluZ0J1ZmZlcigpOwpTdHJpbmcganVzdGlmaWNhdGlvbiA9ICJMZWZ0
+IjsKYm9vbGVhbiBxdW90ZWQgPSB0cnVlOwpTdHJpbmcgcGFkZGluZyA9ICIgIjsKaW50IG1pbkxl
+bmd0aCA9IDA7CmludCBtYXhMZW5ndGggPSAwOwpTdHJpbmcgaW5TdHJpbmcgPSAiIjsKU3RyaW5n
+IGRlZiA9ICIgIjsKU3RyaW5nIHF1b3RlQ2hhcmFjdGVyID0gIlwiIjsKCmlmIChjdXJzb3IuZmly
+c3QoImluU3RyaW5nIikpCnsKICBpblN0cmluZyA9IChTdHJpbmcpIGN1cnNvci5nZXRWYWx1ZSgp
+Owp9CmVsc2UKewogIGlmIChjdXJzb3IuZmlyc3QoImRlZmF1bHQiKSkKICB7CiAgICBkZWYgPSAo
+U3RyaW5nKSBjdXJzb3IuZ2V0VmFsdWUoKTsKICB9Cn0KCmlmIChpblN0cmluZyA9PSBudWxsIHx8
+IGluU3RyaW5nLmxlbmd0aCgpID09IDApCnsKICBpblN0cmluZyA9IGRlZjsKfQoKaWYgKGN1cnNv
+ci5maXJzdCgibWF4TGVuZ3RoIikpCnsKICBtYXhMZW5ndGggPSBJbnRlZ2VyLnBhcnNlSW50KChT
+dHJpbmcpIGN1cnNvci5nZXRWYWx1ZSgpKTsKICBpZiAobWF4TGVuZ3RoID4gMCAmJiBpblN0cmlu
+Zy5sZW5ndGgoKSA+IG1heExlbmd0aCkKICB7CiAgICBpblN0cmluZyA9IGluU3RyaW5nLnN1YnN0
+cmluZygwLCBtYXhMZW5ndGgpOwogIH0KfQoKaWYgKGN1cnNvci5maXJzdCgibWluTGVuZ3RoIikp
+CnsKICBtaW5MZW5ndGggPSBJbnRlZ2VyLnBhcnNlSW50KChTdHJpbmcpIGN1cnNvci5nZXRWYWx1
+ZSgpKTsKfQoKaWYgKG1heExlbmd0aCA+IDAgJiYgbWluTGVuZ3RoID4gbWF4TGVuZ3RoKQp7CiAg
+bWluTGVuZ3RoID0gbWF4TGVuZ3RoOwp9CgppZiAoY3Vyc29yLmZpcnN0KCJwYWRDaGFyYWN0ZXIi
+KSkKewogIHBhZGRpbmcgPSAoU3RyaW5nKSBjdXJzb3IuZ2V0VmFsdWUoKTsKfQoKaWYgKGN1cnNv
+ci5maXJzdCgianVzdGlmaWNhdGlvbiIpKQp7CiAganVzdGlmaWNhdGlvbiA9IChTdHJpbmcpIGN1
+cnNvci5nZXRWYWx1ZSgpOwp9CgppZiAoY3Vyc29yLmZpcnN0KCJxdW90ZWQiKSkKewogIHF1b3Rl
+ZCA9IEJvb2xlYW4udmFsdWVPZigoU3RyaW5nKSBjdXJzb3IuZ2V0VmFsdWUoKSkuYm9vbGVhblZh
+bHVlKCk7Cn0KCmlmIChjdXJzb3IuZmlyc3QoInF1b3RlQ2hhcmFjdGVyIikpCnsKICBxdW90ZUNo
+YXJhY3RlciA9IChTdHJpbmcpY3Vyc29yLmdldFZhbHVlKCk7Cn0KCmlmIChpblN0cmluZy5sZW5n
+dGgoKSA8IG1pbkxlbmd0aCAmJiBqdXN0aWZpY2F0aW9uLmVxdWFsc0lnbm9yZUNhc2UoInJpZ2h0
+IikpCnsKICBmb3IgKGludCBpID0gMDsgaSA8IG1pbkxlbmd0aCAtIGluU3RyaW5nLmxlbmd0aCgp
+OyBpKyspCiAgewogICAgYnVmZmVyLmFwcGVuZChwYWRkaW5nKTsKICB9Cn0KCmJ1ZmZlci5hcHBl
+bmQoaW5TdHJpbmcpOwoKaWYgKGluU3RyaW5nLmxlbmd0aCgpIDwgbWluTGVuZ3RoICYmIGp1c3Rp
+ZmljYXRpb24uZXF1YWxzSWdub3JlQ2FzZSgibGVmdCIpKQp7CiAgZm9yIChpbnQgaSA9IDA7IGkg
+PCBtaW5MZW5ndGggLSBpblN0cmluZy5sZW5ndGgoKTsgaSsrKQogIHsKICAgIGJ1ZmZlci5hcHBl
+bmQocGFkZGluZyk7CiAgfQp9CgppZiAoYnVmZmVyLmxlbmd0aCgpID4gMCkKewogIGlmIChxdW90
+ZWQgPT0gdHJ1ZSkKICB7CiAgICBidWZmZXIuaW5zZXJ0KDAsIHF1b3RlQ2hhcmFjdGVyKS5hcHBl
+bmQocXVvdGVDaGFyYWN0ZXIpOwogIH0KCiAgaWYgKGN1cnNvci5maXJzdCgiZm9ybWF0dGVkU3Ry
+aW5nIikpCiAgewogICAgY3Vyc29yLnNldFZhbHVlKGJ1ZmZlci50b1N0cmluZygpKTsKICB9CiAg
+ZWxzZQogIHsKICAgIGN1cnNvci5pbnNlcnRBZnRlcigiZm9ybWF0dGVkU3RyaW5nIiwgYnVmZmVy
+LnRvU3RyaW5nKCkpOwogIH0KfQoKY3Vyc29yLmRlc3Ryb3koKTsK</value>
+</Values>

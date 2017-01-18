@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="shared">cHJpdmF0ZSBzdGF0aWMgUGF0dGVybiBzcGVjaWFsVGltZXpvbmVQYXR0ZXJuID0gUGF0dGVybi5j
+b21waWxlKCI6PyhcXGR7Mn0pJCIpOwoKcHJpdmF0ZSBzdGF0aWMgYm9vbGVhbiBjb21wYXJlRGF0
+ZVN0cmluZ3MoU3RyaW5nIHZhbHVlMSwgU3RyaW5nIHZhbHVlMiwgU3RyaW5nIG9wZXJhdG9yLCBT
+dHJpbmcgcGF0dGVybikKewogIGlmICh2YWx1ZTEgPT0gbnVsbCB8fCB2YWx1ZTIgPT0gbnVsbCkK
+ICB7CiAgICByZXR1cm4gZmFsc2U7CiAgfQoKICBTdHJpbmcgZGF0ZVBhdHRlcm4gPSBwYXR0ZXJu
+OwoKICBpZiAocGF0dGVybiA9PSBudWxsKQogIHsKICAgIGRhdGVQYXR0ZXJuID0gInl5eXktTU0t
+ZGQgSEg6bW06c3MuUyI7CiAgfQogIGxvbmcgdGltZTE7CiAgbG9uZyB0aW1lMjsKCiAgRGF0ZUZv
+cm1hdCBkYXRlRm9ybWF0ID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoZGF0ZVBhdHRlcm4pOwogIHRy
+eQogIHsKICAgIERhdGUgZGF0ZTEgPSBkYXRlRm9ybWF0LnBhcnNlKHZhbHVlMSk7CiAgICBEYXRl
+IGRhdGUyID0gZGF0ZUZvcm1hdC5wYXJzZSh2YWx1ZTIpOwogICAgdGltZTEgPSBkYXRlMS5nZXRU
+aW1lKCk7CiAgICB0aW1lMiA9IGRhdGUyLmdldFRpbWUoKTsKICB9CiAgY2F0Y2ggKFBhcnNlRXhj
+ZXB0aW9uIHBlKQogIHsKICAgIHJldHVybiBmYWxzZTsKICB9CgogIGlmICgiPSIuZXF1YWxzKG9w
+ZXJhdG9yKSkKICB7CiAgICByZXR1cm4gdGltZTEgPT0gdGltZTI7CiAgfQogIGVsc2UgaWYgKCI+
+Ii5lcXVhbHMob3BlcmF0b3IpKQogIHsKICAgIHJldHVybiB0aW1lMSA+IHRpbWUyOwogIH0KICBl
+bHNlIGlmICgiPCIuZXF1YWxzKG9wZXJhdG9yKSkKICB7CiAgICByZXR1cm4gdGltZTEgPCB0aW1l
+MjsKICB9CiAgZWxzZSBpZiAoIj49Ii5lcXVhbHMob3BlcmF0b3IpKQogIHsKICAgIHJldHVybiB0
+aW1lMSA+PSB0aW1lMjsKICB9CiAgZWxzZSBpZiAoIjw9Ii5lcXVhbHMob3BlcmF0b3IpKQogIHsK
+ICAgIHJldHVybiB0aW1lMSA8PSB0aW1lMjsKICB9CiAgcmV0dXJuIGZhbHNlOwp9Cg==</value>
+  <value name="encodeutf8">true</value>
+  <array name="imports" type="value" depth="1">
+    <value>java.text.*</value>
+    <value>java.util.*</value>
+    <value>java.util.regex.*</value>
+  </array>
+</Values>

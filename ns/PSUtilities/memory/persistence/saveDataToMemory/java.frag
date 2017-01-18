@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">saveDataToMemory</value>
+  <array name="sig" type="value" depth="1">
+    <value>[i] field:0:required MemoryKey</value>
+  </array>
+  <value name="sigtype">java 3.5</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gR2V0IGN1cnNvciB0byBwaXBlbGluZSBJRGF0YSBvYmplY3QKSURhdGFDdXJzb3IgaWRjUGlw
+ZWxpbmUgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsKCi8vIEluaXRpYWxpemUgdmFyaWFibGVzClN0
+cmluZyBzdHJNZW1vcnlLZXkgPSBudWxsOwpJRGF0YSBpZE1lbW9yeSA9IG51bGw7CgovLyBHZXQg
+ZGF0YSBvdXQgb2YgcGlwZWxpbmUKaWYgKGlkY1BpcGVsaW5lLmZpcnN0KCJNZW1vcnlLZXkiKSkK
+ewogIHN0ck1lbW9yeUtleSA9IChTdHJpbmcpIGlkY1BpcGVsaW5lLmdldFZhbHVlKCk7Cn0KZWxz
+ZQp7CiAgLy8gUHJpbnQgdG8gc3RhbmRhcmQgb3V0cHV0IGFuIGVycm9yIG1lc3NhZ2UgYW5kIGV4
+aXQgcHJvY2Vzc2luZwogIFN5c3RlbS5vdXQucHJpbnRsbigiU2VydmljZTogVXRpbC5tZW1vcnku
+cGVyc2lzdGVuY2U6c2F2ZURhdGFUb01lbW9yeSB8ICIgKyAicmVxdWlyZWQgcGFyYW1ldGVyICdN
+ZW1vcnlLZXknIG1pc3NpbmciKTsKICByZXR1cm47Cn0KCmlmIChpZGNQaXBlbGluZS5maXJzdCgi
+TWVtb3J5RGF0YSIpKQp7CgogIGlkTWVtb3J5ID0gKElEYXRhKSBpZGNQaXBlbGluZS5nZXRWYWx1
+ZSgpOwp9CmVsc2UKewogIC8vIFByaW50IHRvIHN0YW5kYXJkIG91dHB1dCBhbiBlcnJvciBtZXNz
+YWdlIGFuZCBleGl0IHByb2Nlc3NpbmcKICBTeXN0ZW0ub3V0LnByaW50bG4oIlNlcnZpY2U6IFV0
+aWwubWVtb3J5LnBlcnNpc3RlbmNlOnNhdmVEYXRhVG9NZW1vcnkgfCAiICsgIlVuYWJsZSB0byBn
+ZXQgTWVtb3J5RGF0YSBmb3IgTWVtb3J5S2V5OiAiICsgc3RyTWVtb3J5S2V5KTsKICByZXR1cm47
+Cn0KCi8vIFBsYWNlIHRoZSBNZW1vcnlEYXRhIG9iamVjdCBpbnRvIHRoZSBNZW1vcnkgdmFsdWVz
+IG9iamVjdApNZW1vcnkucHV0KHN0ck1lbW9yeUtleSwgaWRNZW1vcnkpOwoKLy8gQWx3YXlzIGRl
+c3Ryb3kgY3Vyc29yCmlkY1BpcGVsaW5lLmRlc3Ryb3koKTsK</value>
+</Values>

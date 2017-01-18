@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="shared">cHJpdmF0ZSBzdGF0aWMgZmluYWwgYm9vbGVhbiBjaGVja1BhdGhWYWxpZGl0eShTdHJpbmcgc3Ry
+UGF0aCwgU3RyaW5nIHN0ckFjdGlvbikgdGhyb3dzIEV4Y2VwdGlvbgp7CiAgdHJ5CiAgewogICAg
+Ly8gKioqIENoZWNrIGlmIHNlcnZpY2UgaXMgb24gdGhlIGFsbG93ZWQgbGlzdCAqKioKICAgIElE
+YXRhIGluID0gSURhdGFGYWN0b3J5LmNyZWF0ZSgpOwogICAgSURhdGFDdXJzb3IgaWRjSW4gPSBp
+bi5nZXRDdXJzb3IoKTsKICAgIGlkY0luLmluc2VydEFmdGVyKCJwYXRoIiwgc3RyUGF0aCk7CiAg
+ICBpZGNJbi5pbnNlcnRBZnRlcigiYWN0aW9uIiwgc3RyQWN0aW9uKTsKICAgIE5TTmFtZSBuc0No
+ZWNrU2VydmljZU5hbWUgPSBOU05hbWUuY3JlYXRlKCJQU1V0aWxpdGllcy5jb25maWc6Y2hlY2tQ
+YXRoVmFsaWRpdHkiKTsKICAgIGlkY0luLmRlc3Ryb3koKTsKICAgIElEYXRhIG91dDsKICAgIG91
+dCA9IFNlcnZpY2UuZG9JbnZva2UobnNDaGVja1NlcnZpY2VOYW1lLCBpbik7CiAgICBJRGF0YUN1
+cnNvciBpZGNPdXQgPSBvdXQuZ2V0Q3Vyc29yKCk7CiAgICBTdHJpbmcgc3RyVmFsaWQgPSBudWxs
+OwogICAgaWYgKGlkY091dC5maXJzdCgidmFsaWQiKSkKICAgIHsKICAgICAgc3RyVmFsaWQgPSAo
+U3RyaW5nKSBpZGNPdXQuZ2V0VmFsdWUoKTsKICAgIH0KICAgIGlkY091dC5kZXN0cm95KCk7Cgog
+ICAgaWYgKHN0clZhbGlkLmVxdWFscygiZmFsc2UiKSkKICAgIHsKICAgICAgcmV0dXJuIGZhbHNl
+OwogICAgfQogICAgcmV0dXJuIHRydWU7CiAgICAvLyAqKiogRW5kIGNoZWNrICoqKgogIH0KICBj
+YXRjaCAoRXhjZXB0aW9uIGUpCiAgewogICAgdGhyb3cgZTsKICB9Cn0K</value>
+  <value name="encodeutf8">true</value>
+  <array name="imports" type="value" depth="1">
+    <value>java.io.*</value>
+    <value>java.lang.SecurityException</value>
+    <value>java.util.Properties</value>
+    <value>com.wm.lang.ns.*</value>
+    <value>com.wm.app.b2b.server.*</value>
+  </array>
+</Values>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">setACLs</value>
+  <value name="subtype">unknown</value>
+  <value name="sigtype">java 3.5</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">ClN0cmluZyBzdHJTZXQgPSBDb25maWcuZ2V0UHJvcGVydHkoIndhdHQuUFNVdGlsaXRpZXMuQUNM
+LnNldCIpOwppZiAoc3RyU2V0ID09IG51bGwgfHwgIXN0clNldC5lcXVhbHMoInRydWUiKSkKewog
+IFN0cmluZyBzdHJCdWlsZCA9IEJ1aWxkLmdldFZlcnNpb24oKTsKICBpZiAoc3RyQnVpbGQuaW5k
+ZXhPZigiNC4iKSA9PSAtMSkKICB7CiAgICAvLyB2Ni54CiAgICBTeXN0ZW0ub3V0LnByaW50bG4o
+IlZlcnNpb24gNi54IG9yIGFib3ZlIGRldGVjdGVkIik7CiAgICBBQ0xNYW5hZ2VyLnNldEJyb3dz
+ZUFjbEdyb3VwKCJQU1V0aWxpdGllcyIsICJEZXZlbG9wZXJzIik7CiAgICBBQ0xNYW5hZ2VyLnNl
+dFJlYWRBY2xHcm91cCgiUFNVdGlsaXRpZXMiLCAiRGV2ZWxvcGVycyIpOwogICAgQUNMTWFuYWdl
+ci5zZXRXcml0ZUFjbEdyb3VwKCJQU1V0aWxpdGllcyIsICJEZXZlbG9wZXJzIik7CiAgICBBQ0xN
+YW5hZ2VyLnNldEFjbEdyb3VwKCJQU1V0aWxpdGllcyIsICJJbnRlcm5hbCIpOwogIH0KICBlbHNl
+CiAgewogICAgLy8gdjQueAogICAgU3lzdGVtLm91dC5wcmludGxuKCJWZXJzaW9uIDQueCBkZXRl
+Y3RlZCIpOwogICAgU2VydmljZU1hbmFnZXIuc2V0QWNsR3JvdXAoIlBTVXRpbGl0aWVzIiwgIklu
+dGVybmFsIik7CiAgfQogIFN5c3RlbS5vdXQucHJpbnRsbigiU3VjY2Vzc2Z1bGx5IGNvbmZpZ3Vy
+ZWQgQUNMcyBmb3IgUFNVdGlsaXRpZXMgcGFja2FnZSIpOwogIENvbmZpZy5zZXRQcm9wZXJ0eSgi
+d2F0dC5QU1V0aWxpdGllcy5BQ0wuc2V0IiwgInRydWUiKTsKfQo=</value>
+</Values>
